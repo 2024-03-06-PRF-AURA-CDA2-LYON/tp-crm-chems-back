@@ -1,4 +1,4 @@
-INSERT INTO customer (COMPANY_NAME, FIRST_NAME, LAST_NAME, EMAIL, PHONE_NUMBER, ADDRESS, ZIP_CODE, COUNTRY, CITY)
+INSERT INTO customer (COMPANY_NAME, FIRST_NAME, LAST_NAME, EMAIL, PHONE_NUMBER, ADDRESS, ZIP_CODE, COUNTRY, CITY, STATE)
 VALUES
 ('Tech Solutions', 'Alice', 'Johnson', 'alice.johnson@techsolutions.com', '+33123456789', '123 Rue de Paris', '75001', 'France', 'Paris'),
 ('Build Corp', 'Bob', 'Williams', 'bob.williams@buildcorp.com', '+33123456790', '456 Avenue des Champs', '75008', 'France', 'Paris'),
